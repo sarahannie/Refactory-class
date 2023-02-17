@@ -70,10 +70,34 @@ console.log("assign subtraction " + result12)
 s=2
 t=3
 n="2"
-console.log("equal to" , s == t) 
-console.log("equal to" , n == s)
+console.log("equal to: " , s == t) 
+console.log("equal to: " , n == s)
 
 //equal type and equal value
-console.log("Equal value and Equal type " , s === t) 
-console.log("equal to" , n === s)
+console.log("Equal value and Equal data type: " , s === t) 
+console.log("equal to: " , n === s)
 
+
+//not equal to 
+console.log(" not equal to: " , s != t) 
+console.log("not equal to: " , n != s)
+
+
+//not equal to data type and value
+console.log(" not equal to: " , s !== t) 
+console.log("not equal to: " , n !== s)
+
+
+//greater than
+console.log("greater than: ", s > t)
+
+
+//greater than or equal to
+console.log("greater than or equal to: ", s >= t)
+
+//less than
+console.log("less than: ", s < t)
+
+
+// ternary operator
+// this operator is like if else statement
