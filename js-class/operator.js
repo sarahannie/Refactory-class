@@ -65,5 +65,15 @@ console.log("assign add" + result11)
 let result12 = p -= 5
 console.log("assign subtraction " + result12)
 
-com
+//comparison operator
+//equal to
+s=2
+t=3
+n="2"
+console.log("equal to" , s == t) 
+console.log("equal to" , n == s)
+
+//equal type and equal value
+console.log("Equal value and Equal type " , s === t) 
+console.log("equal to" , n === s)
 
