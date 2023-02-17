@@ -40,5 +40,30 @@ let b = 10;
 let result8 = 2 + b++
 console.log("postIncrement", result8)
 
-//
+// Decrement --
+//preDecrement
+let c = 10;
+let result9 = 2 + --c
+console.log("PreDecrement" + result9)
+
+//PostDecrement
+let d = 10;
+let result10 = 2 + d--
+console.log("PreDecrement" + result10)
+
+
+//Assignment Operators
+//assign
+ let p = 10
+ // = is the assign symbol
+
+ //add and assign
+let result11 = p += 5
+console.log("assign add" + result11)
+
+//subtract and assign
+let result12 = p -= 5
+console.log("assign subtraction " + result12)
+
+com
 
