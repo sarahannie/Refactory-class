@@ -101,3 +101,16 @@ console.log("less than: ", s < t)
 
 // ternary operator
 // this operator is like if else statement
+
+let q = 10
+let r = 15
+
+let result14 = q > r ? q : r
+// this equation means that if q is greater than r print q else print r
+console.log("Ternary operator", result14)
+
+
+//Logical operator
+//&& and sign 
+//|| or sign
+//! not sign 
