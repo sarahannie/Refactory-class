@@ -39,7 +39,7 @@ console.log("PreIncrement", result7)
 let b = 10;
 let result8 = 2 + b++
 console.log("postIncrement", result8)
-
+console.log(b)
 // Decrement --
 //preDecrement
 let c = 10;
