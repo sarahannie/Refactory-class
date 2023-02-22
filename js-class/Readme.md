@@ -1,8 +1,9 @@
-# group 3
-- Sarah Ndianekwu
-- Waguti Warren
-- Oroma Charles
-- Ongaya Gerffray Laika
-- Mark Mukisa
-- Ssekirya Cosma
-- Kemigisha Faith 
+# Group 3
+* Sarah Ndianekwu
+* Waguti Warren
+* Oroma Charles
+* Ongaya Gerffray Laika
+* Mark Mukisa
+* Ssekirya Cosma
+* Kemigisha Faith 
+* Joshua Kayongo
