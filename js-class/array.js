@@ -8,3 +8,16 @@ console.log(random[4][1])
 //Replacing in the array
 random[0] = "France"
 console.log(random)
+
+// using another approach
+
+let cars = new Array("Ford", "Toyota", "Mercedes")
+console.log(cars)
+
+cars.push("Ferrari");
+
+console.log(cars);
+
+console.log(cars.concat(random));
+
+console.log( car)
