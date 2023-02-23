@@ -12,12 +12,22 @@ console.log(random)
 // using another approach
 
 let cars = new Array("Ford", "Toyota", "Mercedes")
+// console.log(cars)
+
+// cars.push("Ferrari");
+
+// console.log(cars);
+
+// console.log(cars.concat(random));
+
+// console.log( cars.pop())
+
+// Array Methods
+// splice called start and number
+//console.log(cars.splice(1,2))
+//Pop: last Item
+// Remove the first items
+
+let item = cars.shift()
 console.log(cars)
-
-cars.push("Ferrari");
-
-console.log(cars);
-
-console.log(cars.concat(random));
-
-console.log( car)
+console.log(item)
