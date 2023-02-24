@@ -31,3 +31,17 @@ let cars = new Array("Ford", "Toyota", "Mercedes")
 let item = cars.shift()
 console.log(cars)
 console.log(item)
+
+// unshift add at the beginning of the array
+
+ cars.unshift("Camery")
+
+console.log(cars)
+
+// Push vs Unshift
+//Pop vs shift
+//delete , splice
+
+delete cars[1]
+
+console.log(cars)
