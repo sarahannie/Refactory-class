@@ -22,3 +22,5 @@ function local(){
     let local2 = localvar1 + localvar2
     return local2
 }
+
+console.log("local var testing", local())
