@@ -24,3 +24,13 @@ function local(){
 }
 
 console.log("local var testing", local())
+
+let globalvar1 = 3;
+let globalvar2 = 4;
+
+function global(){
+   let globalv = globalvar1 + globalvar2
+   return globalv 
+}
+
+console.log("Global var example",global())
