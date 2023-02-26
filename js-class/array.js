@@ -45,3 +45,9 @@ console.log(cars)
 delete cars[1]
 
 console.log(cars)
+
+let names = ['Chris', 'Kevin', 'Naveed', 'Pete', 'Victor'];
+
+names.forEach(function(name) {
+  console.log(name);
+});
