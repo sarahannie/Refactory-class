@@ -20,3 +20,12 @@ person['gender'] = 'Female'
 
 console.log(person)
 
+console.log(delete person.Age)
+
+console.log(person)
+
+
+// Object.freeze() static method freezes an object . a frozen object cant be change
+let myObj = Object.freeze({foo:'bar', qux:'xyz', pi:3.142})
+myObj.que = 'hello';
+console.log(myObj)
