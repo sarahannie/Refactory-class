@@ -1,0 +1,7 @@
+let add = (a, b) => {
+    return a + b
+}
+console.log(add( 2, 3))
+
+let add1 = (a, b) => a + b
+console.log(add(3,5))
