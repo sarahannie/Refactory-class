@@ -6,3 +6,9 @@
 
 let X = 3.14
 console.log(X)
+
+// this use strict make it easier to write secure JAVASCRIPT
+
+// not declaring variable cause error
+//deleting variable not allowed
+//
