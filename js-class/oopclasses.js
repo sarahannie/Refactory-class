@@ -22,3 +22,10 @@ console.log(mary_car)
 let paul = new Car("Acura","Itain")
 console.log(paul.name)
 console.log(paul.color)
+
+// Assignment
+//create 10 class with at least five object
+//Assignment: Create 10 classe with atleast 5 properties and give at least 5 objects for each class. 
+//name the file with your names
+//ireneNyakate.js
+//inyakate@gmail.com
