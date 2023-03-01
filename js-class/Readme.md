@@ -7,3 +7,6 @@
 * Ssekirya Cosma
 * Kemigisha Faith 
 * Joshua Kayongo
+
+
+to run a python clean code : pip3 pycodestyle .\paulineko
