@@ -41,7 +41,7 @@ switch( new Date().getDate()){
     case 21:
         console.log("Tuesday")
         break;
-    case 3:
+    case 1:
         console.log("Wednesday")
         break;
     case 4:

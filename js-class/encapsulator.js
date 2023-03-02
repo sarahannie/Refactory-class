@@ -28,4 +28,4 @@ let worker = new Worker();
 worker.setName("Sarah")
 worker.setRating("10/10")
 
-console.log(worker.setName())
+console.log(worker.getName())
