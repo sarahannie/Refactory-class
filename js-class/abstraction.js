@@ -30,14 +30,16 @@ function Employee(name,age, baseSalery){
 
     // tAbstraction of this method. it is not exposed to the user
     let calculateFinalSalery = function(){
-        let finalSalary = this.baseSalery + this.monthlyBonus
+        let finalSalary = baseSalery + monthlyBonus
         console.log('Final Salary is :' + finalSalary)
     }
     // this method is exposed as a property
     this.getEmpDetails = function(){
-        console.log('Nme :' + this.name +'| Age : ' + this.age);
+        console.log('Name :' + this.name +'| Age : ' + this.age);
         calculateFinalSalery(); // Result of final salary is got when you call the function
     }
 }
 
 
+let emp = new Employee('peter',30,1000)
+emp.getEmpDetails()
